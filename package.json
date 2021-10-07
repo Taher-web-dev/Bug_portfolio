@@ -1,0 +1,30 @@
+{
+  "name": "portfolio-setup-and-mobile-version-skeleton",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "dependencies": {
+    "amdefine": "^1.0.1",
+    "css-parse": "^1.7.0",
+    "hint": "^2.0.0",
+    "insert-rule": "^2.1.0",
+    "nib": "^1.1.2",
+    "sax": "^0.5.8",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taher-web-dev/Portfolio-setup-and-mobile-version-skeleton.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taher-web-dev/Portfolio-setup-and-mobile-version-skeleton/issues"
+  },
+  "homepage": "https://github.com/Taher-web-dev/Portfolio-setup-and-mobile-version-skeleton#readme"
+}
