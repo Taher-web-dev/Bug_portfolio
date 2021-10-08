@@ -229,7 +229,7 @@ function setForm() {
   form.elements.email.value = currentUserEmail;
   form.elements.message.value = currentMessage;
 }
-if (!localStorage.getItem('userInput')) {
+if (localStorage.length === 0) {
   populateStorage();
 } else {
   setForm();
